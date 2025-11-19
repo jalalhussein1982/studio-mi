@@ -1,0 +1,5 @@
+{
+  "name": "PyStat: Client-Side Statistical Analysis",
+  "description": "A secure, browser-based statistical analysis tool using Pyodide to process data locally. Features comprehensive data cleaning, outlier detection, and advanced visualization.",
+  "requestFramePermissions": []
+}
